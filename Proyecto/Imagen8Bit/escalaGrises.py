@@ -12,8 +12,9 @@ def imprimirImg(data, tamanio):
     file.write(linea)
 
 
-
 img = Image.open('crash.png').convert('LA')
+img = img.resize((100,100)) 
+
 data = img.getdata()
 data = list(data)
 #print(data)

@@ -130,3 +130,4 @@ https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/1023/mod_resou
 
 https://www.learnpython.org/es/
 
+https://www.hackerrank.com/dashboard

@@ -6,10 +6,10 @@
     - Multiparadigma 
     - Aplicación en diversas áreas
     
-    (Librerias)[https://python.libhunt.com/]
+    [Librerias](https://python.libhunt.com/)
 ## Curva de aprendizaje  
 
-!(curva)[https://www.test-oposiciones.es/wp-content/uploads/2018/03/Curva-aprendizaje-1024x752.png]
+![curva](https://www.test-oposiciones.es/wp-content/uploads/2018/03/Curva-aprendizaje-1024x752.png)
 
 
 # Algortimos 

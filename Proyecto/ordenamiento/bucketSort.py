@@ -20,9 +20,9 @@ def create_bucket(list_a, buckets=2 ):
     else :
       insertionSort(dict[i_bucket], element)
   print("dict :: ",dict)
-  print(list(range(min_v // scale, (max_v //scale)+1,scale)))
+
   for key in range(min_v // scale, (max_v //scale)+1):
-    print("k",key)
+
     if key in dict:
       list_b = dict[key]
       sort_l = sort_l + (list_b)
